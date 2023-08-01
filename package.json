@@ -1,0 +1,19 @@
+{
+  "name": "app-api-movies",
+  "version": "1.0.0",
+  "description": "App movies",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilototus/App-Api-Movies.git"
+  },
+  "author": "@camilototus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/camilototus/App-Api-Movies/issues"
+  },
+  "homepage": "https://github.com/camilototus/App-Api-Movies#readme"
+}
